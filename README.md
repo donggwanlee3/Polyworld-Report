@@ -18,12 +18,6 @@ These metrics reflect the model's high degree of accuracy in segmenting and deli
 - **End-to-End Process:** Integration of vertex detection and polygonization in a single model.
 - **High-Quality Outputs:** The model generates accurate, clean, and regular polygons.
 
-### Figures:
-
-- **Figure 1:** Comparison of Input Image vs Output Results
-- **Figure 2:** Additional Visualizations of Model Performance
-- **Figure 3:** Edge Case Handling in Output Results
-
 ## Limitations
 
 Despite its strengths, PolyWorld has some limitations:
